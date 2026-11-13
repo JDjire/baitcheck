@@ -12,9 +12,9 @@ Social engineering can lead to security breaches. People need practice respondin
 
 [Watch the full demo on YouTube](https://youtu.be/cbzNuaDUl6o): registration, the scenarios in English and Amharic, the report, and the admin view.
 
-My contribution presentation video 
+[![My contribution presentation video](https://vumbnail.com/1246714886.jpg)](https://vimeo.com/1246714886?share=copy&fl=sv&fe=ci)
 
-https://vimeo.com/reviews/bfbe4567-36e7-4be1-8bb4-5e3afa3353f0/videos/1246714886
+[Watch my contribution presentation on Vimeo](https://vimeo.com/1246714886?share=copy&fl=sv&fe=ci)
 
 ## What it does
 
