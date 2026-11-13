@@ -12,9 +12,9 @@ Social engineering can lead to security breaches. People need practice respondin
 
 [Watch the full demo on YouTube](https://youtu.be/cbzNuaDUl6o): registration, the scenarios in English and Amharic, the report, and the admin view.
 
-<video src="https://github.com/JDjire/baitcheck/raw/refs/heads/main/BaitCheck.mp4" controls width="100%">
-  Your browser does not support embedded video. [Open BaitCheck.mp4](https://github.com/JDjire/baitcheck/blob/main/BaitCheck.mp4).
-</video>
+[![My contribution presentation video](https://img.youtube.com/vi/ImCs7NaBF4o/hqdefault.jpg)](https://youtu.be/ImCs7NaBF4o)
+
+[Watch my contribution presentation video on YouTube](https://youtu.be/ImCs7NaBF4o)
 
 ## What it does
 
