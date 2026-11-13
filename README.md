@@ -14,7 +14,7 @@ Social engineering can lead to security breaches. People need practice respondin
 
 [![My contribution presentation video](https://vumbnail.com/1246714886.jpg)](https://vimeo.com/1246714886?share=copy&fl=sv&fe=ci)
 
-[Watch my contribution presentation on Vimeo](https://vimeo.com/1246714886?share=copy&fl=sv&fe=ci)
+[Watch my contribution presentation video](https://vimeo.com/1246714886?share=copy&fl=sv&fe=ci)
 
 ## What it does
 
