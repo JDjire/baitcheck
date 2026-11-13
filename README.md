@@ -2,6 +2,8 @@
 
 BaitCheck helps people practise spotting social engineering in short, realistic conversations.
 
+https://baitcheck-three.vercel.app/
+
 ## The problem
 
 Social engineering can lead to security breaches. People need practice responding to suspicious requests, not slides alone. BaitCheck is designed for an Ethiopia facing context: the prototype supports English and Amharic and uses mobile money, Telegram and workplace scenarios.
